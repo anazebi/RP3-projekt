@@ -1,1 +1,1 @@
-Napravite aplikaciju koja prati stanje u nekom hotelu,sobe i apartmane i njhove karakteristike, zatim trenutne goste i rezervacije i ostale usluge koje hotel nudi. Na zahtjev se treba ispisivati račun ili predračun za svaku vrstu boravka, odnosno usluge.
+Napravite aplikaciju koja prati stanje u nekom hotelu, sobe i apartmane i njhove karakteristike, zatim trenutne goste i rezervacije i ostale usluge koje hotel nudi. Na zahtjev se treba ispisivati račun ili predračun za svaku vrstu boravka, odnosno usluge.
